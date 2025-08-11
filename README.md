@@ -3,34 +3,22 @@
 This repository contains Python practice programs created as part of my institute coursework. The exercises cover fundamental concepts such as loops, functions, file handling, and problem-solving.
 
 🛠 Topics Covered
-Variables and Data Types
 
-Conditional Statements (if, elif, else)
+Detailed Use of print() and input() Functions
 
-Loops (for, while)
+Data Types, Variables & Operators
 
-Functions
+Type Casting Constructors
 
-File Handling
-
-Basic Problem Solving Exercises
+id() and type() Functions:
 
 ▶️ How to Run
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/python-practice.git
 Navigate to the project folder:
 
-bash
-Copy
-Edit
 cd python-practice
 Run a Python file:
 
-bash
-Copy
-Edit
 python filename.py
